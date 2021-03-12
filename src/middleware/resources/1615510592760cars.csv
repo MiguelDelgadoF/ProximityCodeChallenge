@@ -1,0 +1,12 @@
+passedemissions,mpg,cylinders,displacement,horsepower,weight,acceleration,modelyear,carname
+FALSE,18,8,307,130,1.752,12,70,chevrolet chevelle malibu
+FALSE,15,8,350,165,1.8465,11.5,70,buick skylark 320
+FALSE,18,8,318,150,1.718,11,70,plymouth satellite
+FALSE,16,8,304,150,1.7165,12,70,amc rebel sst
+FALSE,17,8,302,140,1.7245,10.5,70,ford torino
+FALSE,15,8,429,198,2.1705,10,70,ford galaxie 500
+FALSE,14,8,454,220,2.177,9,70,chevrolet impala
+FALSE,14,8,440,215,2.156,8.5,70,plymouth fury iii
+FALSE,14,8,455,225,2.2125,10,70,pontiac catalina
+FALSE,15,8,390,190,1.925,8.5,70,amc ambassador dpl
+...,...,...,...,...,...,...,...,...

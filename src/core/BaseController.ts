@@ -41,4 +41,8 @@ export abstract class BaseController {
         })
     }
 
+    protected clientError(message?: string) {
+        return this.jsonResponse(400, message ? message : 'Bad request');
+    }
+
 }

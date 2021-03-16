@@ -1,0 +1,14 @@
+{
+    "Golabs": {
+        "UUID" : "UUID",
+        "VIN" : "VIN",
+        "Make" : "Make",
+        "Model" : "Model",
+        "Mileage" : "Mileage",
+        "Year" : "Year",
+        "Price" : "Price",
+        "Zip Code" : "Zip Code",
+        "Create Date" : "Create Date",
+        "Update Date" : "Update Date"
+    }
+}
